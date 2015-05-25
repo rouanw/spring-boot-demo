@@ -9,7 +9,6 @@
     <version>1.0.0-SNAPSHOT</version>
 
     <name>Spring boot demo</name>
-    <url>https://github.com/rouanw/springboot</url>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
